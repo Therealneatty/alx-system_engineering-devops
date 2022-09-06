@@ -1,1 +1,1 @@
-My shell redirecting i/o script
+Write a script that displays a confused smiley "(Ôo)
